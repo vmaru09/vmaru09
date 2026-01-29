@@ -46,11 +46,15 @@ I'm a passionate Machine Learning and AI developer from Indore, India, with a st
 
 ### Web & Real-time Communication
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### RPA & Automation
+![OpenRPA](https://img.shields.io/badge/-OpenRPA-FF6B6B?style=flat-square&logo=robot&logoColor=white)
+![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Automation](https://img.shields.io/badge/-Process_Automation-4CAF50?style=flat-square&logo=automation&logoColor=white)
 
 ### Tools & Frameworks
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -61,16 +65,7 @@ I'm a passionate Machine Learning and AI developer from Indore, India, with a st
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmaru09&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmaru09&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmaru09&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vmaru09&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vmaru09&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ## 🏆 GitHub Achievements
@@ -163,6 +158,8 @@ Complete full-stack application leveraging NLP and ML to identify and flag misin
 - 🛒 **AI Shopping**: Computer Vision for Retail, Product Recognition
 - 📰 **Misinformation Detection**: Fake News Detection, NLP for Fact-Checking
 - 🌐 **Full Stack Development**: End-to-end Application Development
+- 🤖 **RPA & Automation**: Process Automation, OpenRPA, UiPath, Workflow Optimization
+- ⚡ **FastAPI Development**: High-performance API Development, Microservices
 
 ## 📈 Current Focus
 
